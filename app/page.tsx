@@ -22,7 +22,7 @@ export default function Index() {
         Current{" "}
         <CustomLink href="https://nextjs.authjs.dev">NextAuth.js</CustomLink>{" "}
         version: <em>next-auth@{packageJSON.dependencies["next-auth"]}</em>
-      </p>
+      </p>  
     </div>
   )
 }
